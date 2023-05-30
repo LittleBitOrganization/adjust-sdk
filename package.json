@@ -1,0 +1,11 @@
+{
+  "name": "com.littlebitgames.adjust",
+  "displayName": "Adjust Module",
+  "version": "4.31.0",
+  "unity": "2021.1",
+  "unityRelease": "6f1",
+  "category": "Module",
+  "author": {
+    "name": "LittleBitGames"
+  }
+}
